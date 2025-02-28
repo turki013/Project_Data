@@ -46,15 +46,20 @@ This project focuses on analyzing a dataset using Python and various data analys
    ```
 
 ## 📊 Sample Visualization
-![Sample Chart](https://via.placeholder.com/600x300.png?text=Sample+Visualization)
+![image](https://github.com/user-attachments/assets/6779a8d7-8a71-4e97-90ee-74bf246982b7)
 
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
+![image](https://github.com/user-attachments/assets/a0a12a87-f24f-4a37-9d30-af564a0fae40)
+
+![image](https://github.com/user-attachments/assets/a28e257a-3427-4a00-acb0-849fc011fc17)
+
+![image](https://github.com/user-attachments/assets/2b58a741-6f98-4293-a4c9-24ceb7b25da3)
+
+
 
 ## 🤝 Contributing
 Feel free to fork this project, submit issues, or contribute improvements!
 
 ## 📞 Contact
 For any inquiries, you can reach me at:
-📧 your.email@example.com
+📧 [Telegram](https://t.me/DataScience18)
 

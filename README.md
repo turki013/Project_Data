@@ -28,8 +28,8 @@ This project focuses on analyzing a dataset using Python and various data analys
 ## 🚀 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Data-Analysis-Project.git
-   cd Data-Analysis-Project
+   git clone https://github.com/turki013/Project-Data.git
+   cd Project-Data-Project
    ```
 2. Create a virtual environment (optional but recommended):
    ```bash

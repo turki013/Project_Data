@@ -86,7 +86,7 @@ Bar chart shows the number of students per school, split by nationality.
 
 Pie chart displays the percentage share of each school in terms of student population.
 
-![Dashboard](assets/Dashboard_img/Dasshboard_no3.png)
+![Dashboard](assets/Dashboard_img/Dashboard_no3.png)
 
 ## Title: Distribution of Saudi vs Non-Saudi Students in Schools (Duplicate View)
 

@@ -157,11 +157,14 @@
 - تقديم اقتراحات لتحسين التحليل
 - المساعدة في تطوير لوحات Power BI إضافية
 - تحسين معالجة البيانات وأساليب التحليل
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <h2 style="color: white;">للاستفسارات أو المزيد من المعلومات:</p>
+  <a href="https://t.me/DataScience18" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
+  </a>
+</div>
 
-## 📞 التواصل
-للاستفسارات أو المزيد من المعلومات:
-- 📱 تليجرام: [@DataScience18](https://t.me/DataScience18)
 
----
 
-تم تطوير هذا المشروع بواسطة فريق تحليل البيانات © 2025
+  
+

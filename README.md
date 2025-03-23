@@ -12,7 +12,7 @@
 
 
 # **Translate**
-[<img src="https://flagcdn.com/w40/sa.png" height="20"/>](Docs/Translate/README.ar.m)
+[<img src="https://flagcdn.com/w40/sa.png" height="20"/>](Docs/Translate/README.ar.md)
 
 
 

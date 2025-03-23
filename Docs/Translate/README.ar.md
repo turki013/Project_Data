@@ -81,7 +81,8 @@
 
 هذا المجلد يحتوي على لوحات بصرية توضح توزيع الطلاب السعوديين وغير السعوديين في مختلف المدارس، مع تفاصيل حسب المراحل التعليمية.
 
-![Dashboard 1](assets/Dashboard_img/Dashboard_no1.png)
+![Dashboard](../../assets/Dashboard_img/Dashboard_no1.png)
+
 ## العنوان: توزيع الطلاب السعوديين مقابل غير السعوديين في المدارس
 
 ### الوصف:
@@ -94,7 +95,8 @@
 الرسم الدائري يوضح نسبة كل مدرسة من إجمالي عدد الطلاب.
 
 
-![Dashboard](assets/Dashboard_img/Dasshboard_no3.png)
+![Dashboard](../../assets/Dashboard_img/Dashboard_no3.png)
+
 
 ## العنوان: توزيع الطلاب السعوديين مقابل غير السعوديين في المدارس (عرض مكرر)
 
@@ -104,7 +106,7 @@
 مفيد للمقارنة أو التحقق من التخطيط.
 
 
-![Dashboard](assets/Dashboard_img/Dashboard_no2.png)
+![Dashboard](--/--/assets/Dashboard_img/Dashboard_no2.png)
 
 ## العنوان: تصنيف الطلاب السعوديين حسب المرحلة التعليمية (روضة/ابتدائي/متوسط/ثانوي)
 
@@ -120,7 +122,7 @@
 الرسم البياني العمودي يوضح توزيع الطلاب السعوديين في المدارس حسب المراحل التعليمية.
 
 
-![Dashboard](assets/Dashboard_img/Dashboard_no4.png)
+![Dashboard](--/--/assets/Dashboard_img/Dashboard_no4.png)
 
 ## العنوان: توزيع الطلاب السعوديين حسب المرحلة التعليمية (عرض مكرر)
 

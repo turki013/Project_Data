@@ -66,6 +66,65 @@ Heat map showing the concentration of Saudi students in foreign schools.
 ### Trend Analysis
 Comparison between schools in terms of growth rates and development.
 
+# 📊 Student Distribution Dashboards
+
+This folder contains visual dashboards showing the distribution of Saudi and non-Saudi students across various schools, including detailed breakdowns by education levels.
+
+![Dashboard 1](assets/Dashboard_img/Dashboard_no1.png)
+
+## Title: Distribution of Saudi vs Non-Saudi Students in Schools
+
+### Description:
+
+- Total students: 3052
+
+- Saudi students: 1280
+
+- Non-Saudi students: 1772
+
+Bar chart shows the number of students per school, split by nationality.
+
+Pie chart displays the percentage share of each school in terms of student population.
+
+![Dashboard](assets/Dashboard_img/Dasshboard_no3.png)
+
+## Title: Distribution of Saudi vs Non-Saudi Students in Schools (Duplicate View)
+
+### Description:
+
+Same data and visuals as Dashboard no1.png, possibly a resized or alternate version.
+
+Useful for cross-reference or layout comparison.
+
+![Dashboard](assets/Dashboard_img/Dashboard_no2.png)
+
+## Title: Classification of Saudi Students by Education Level (KG/Primary/Intermediate/Secondary)
+
+### Description:
+
+Total Saudi students: 1280, divided into:
+
+- Kindergarten: 110
+
+- Primary: 656
+
+- Intermediate: 281
+
+- Secondary: 233
+
+Bar chart shows the distribution of Saudi students across schools and education levels.
+
+![Dashboard](assets/Dashboard_img/Dashboard_no4.png)
+
+## Title: Saudi Student Breakdown by Education Stage (Duplicate View)
+
+### Description:
+
+Same data and chart as Dashboard no2.png, showing the same classifications.
+
+May differ slightly in display or formatting.
+
+
 ## 🚀 Installation and Usage
 1. Clone the repository:
    ```bash

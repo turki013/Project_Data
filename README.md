@@ -2,13 +2,20 @@
 
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-📊-brightgreen?style=flat-square)
 ![Power BI](https://img.shields.io/badge/PowerBI-⚡-yellow?style=flat-square&logo=powerbi)
-![GitHub Repo stars](https://img.shields.io/github/stars/turki013/Bank-System?style=social)
-![GitHub forks](https://img.shields.io/github/forks/turki013/Bank-System?style=social)
-![GitHub issues](https://img.shields.io/github/issues/turki013/Bank-System)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/turki013/Bank-System)
-![GitHub last commit](https://img.shields.io/github/last-commit/turki013/Bank-System)
-![GitHub repo size](https://img.shields.io/github/repo-size/turki013/Bank-System)
-![License](https://img.shields.io/github/license/turki013/Bank-System)
+![GitHub Repo stars](https://img.shields.io/github/stars/turki013/Project_Data?style=social)
+![GitHub forks](https://img.shields.io/github/forks/turki013/Project_Data?style=social)
+![GitHub issues](https://img.shields.io/github/issues/turki013/Project_Data)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/turki013/Project_Data)
+![GitHub last commit](https://img.shields.io/github/last-commit/turki013/Project_Data)
+![GitHub repo size](https://img.shields.io/github/repo-size/turki013/Project_Data)
+![License](https://img.shields.io/github/license/turki013/Project_Data)
+
+
+# **Translate**
+[<img src="https://flagcdn.com/w40/sa.png" height="20"/>](README.ar.md)
+
+
+
 
 ## 📋 Overview
 This project focuses on analyzing student data from Saudi schools abroad for the year 2025, with the aim of extracting valuable insights about the distribution of Saudi and non-Saudi students across different educational stages in eight countries. The analysis helps in making strategic decisions to develop the external educational system.
@@ -37,14 +44,11 @@ The data includes statistics on:
 📦 Saudi-Schools-Abroad-Analysis
 ├── 📁 data                 # Raw and processed data
 │   └── 📄 Number of Students in Saudi Schools Abroad2025.csv
-├── 📁 notebooks            # Jupyter notebooks for analysis
-│   └── 📄 data_analysis.ipynb
-├── 📁 reports              # Reports and outputs
-│   ├── 📄 executive_summary.pdf
-│   └── 📄 detailed_analysis.pdf
 ├── 📁 visualizations       # Power BI dashboards and chart images
 │   └── 📄 dashboard.pbix
-├── 📄 requirements.txt     # Project libraries and requirements
+├── 📁 Docs
+     └── 📁 Translate
+          └── 📄 README.ar.md  # Translate documentation
 └── 📄 README.md            # Project documentation
 ```
 
@@ -65,27 +69,10 @@ Comparison between schools in terms of growth rates and development.
 ## 🚀 Installation and Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/turki013/saudi-schools-analysis.git
-   cd saudi-schools-analysis
+    git clone https://github.com/turki013/Project_Data.git
+    cd Project_Data
    ```
-
-2. Create a virtual environment (optional but recommended):
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows use: venv\Scripts\activate
-   ```
-
-3. Install requirements:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Open Jupyter Notebook and run the analysis:
-   ```bash
-   jupyter notebook notebooks/data_analysis.ipynb
-   ```
-
-5. Explore Power BI dashboards:
+2. Explore Power BI dashboards:
    - Open the file `visualizations/dashboard.pbix` using Power BI Desktop
 
 ## 💡 Suggested Applications
@@ -102,8 +89,10 @@ Contributions from all interested parties are welcome! You can:
 
 ## 📞 Contact
 For inquiries or more information:
-- 📱 Telegram: [@DataScience18](https://t.me/DataScience18)
+
+<a href="https://t.me/DataScience18" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
+  </a>
 
 ---
 
-Developed by the Data Analysis Team © 2025

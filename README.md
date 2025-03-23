@@ -2,7 +2,7 @@
 
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-📊-brightgreen?style=flat-square)
 ![Power BI](https://img.shields.io/badge/PowerBI-⚡-yellow?style=flat-square&logo=powerbi)
-![Python](https://img.shields.io/badge/Python-🐍-blue?style=flat-square&logo=python)
+
 
 ## 📋 Overview
 This project focuses on analyzing student data from Saudi schools abroad for the year 2025, with the aim of extracting valuable insights about the distribution of Saudi and non-Saudi students across different educational stages in eight countries. The analysis helps in making strategic decisions to develop the external educational system.

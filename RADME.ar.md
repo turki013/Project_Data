@@ -1,9 +1,14 @@
 # 🏫 تحليل بيانات المدارس السعودية في الخارج 2025
 
-![Data Analysis](https://img.shields.io/badge/تحليل_بيانات-📊-brightgreen?style=flat-square)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-📊-brightgreen?style=flat-square)
 ![Power BI](https://img.shields.io/badge/PowerBI-⚡-yellow?style=flat-square&logo=powerbi)
-![Python](https://img.shields.io/badge/Python-🐍-blue?style=flat-square&logo=python)
-
+![GitHub Repo stars](https://img.shields.io/github/stars/turki013/Bank-System?style=social)
+![GitHub forks](https://img.shields.io/github/forks/turki013/Bank-System?style=social)
+![GitHub issues](https://img.shields.io/github/issues/turki013/Bank-System)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/turki013/Bank-System)
+![GitHub last commit](https://img.shields.io/github/last-commit/turki013/Bank-System)
+![GitHub repo size](https://img.shields.io/github/repo-size/turki013/Bank-System)
+![License](https://img.shields.io/github/license/turki013/Bank-System)
 ## 📋 نظرة عامة
 يركز هذا المشروع على تحليل بيانات طلاب المدارس السعودية في الخارج لعام 2025، بهدف استخراج رؤى قيمة حول توزيع الطلاب السعوديين وغير السعوديين عبر المراحل التعليمية المختلفة في ثمانية بلدان. يساعد التحليل في اتخاذ قرارات استراتيجية لتطوير المنظومة التعليمية الخارجية.
 

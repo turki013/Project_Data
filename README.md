@@ -2,7 +2,13 @@
 
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-📊-brightgreen?style=flat-square)
 ![Power BI](https://img.shields.io/badge/PowerBI-⚡-yellow?style=flat-square&logo=powerbi)
-
+![GitHub Repo stars](https://img.shields.io/github/stars/turki013/Bank-System?style=social)
+![GitHub forks](https://img.shields.io/github/forks/turki013/Bank-System?style=social)
+![GitHub issues](https://img.shields.io/github/issues/turki013/Bank-System)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/turki013/Bank-System)
+![GitHub last commit](https://img.shields.io/github/last-commit/turki013/Bank-System)
+![GitHub repo size](https://img.shields.io/github/repo-size/turki013/Bank-System)
+![License](https://img.shields.io/github/license/turki013/Bank-System)
 
 ## 📋 Overview
 This project focuses on analyzing student data from Saudi schools abroad for the year 2025, with the aim of extracting valuable insights about the distribution of Saudi and non-Saudi students across different educational stages in eight countries. The analysis helps in making strategic decisions to develop the external educational system.

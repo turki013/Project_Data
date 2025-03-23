@@ -2,13 +2,15 @@
 
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-📊-brightgreen?style=flat-square)
 ![Power BI](https://img.shields.io/badge/PowerBI-⚡-yellow?style=flat-square&logo=powerbi)
-![GitHub Repo stars](https://img.shields.io/github/stars/turki013/Bank-System?style=social)
-![GitHub forks](https://img.shields.io/github/forks/turki013/Bank-System?style=social)
-![GitHub issues](https://img.shields.io/github/issues/turki013/Bank-System)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/turki013/Bank-System)
-![GitHub last commit](https://img.shields.io/github/last-commit/turki013/Bank-System)
-![GitHub repo size](https://img.shields.io/github/repo-size/turki013/Bank-System)
-![License](https://img.shields.io/github/license/turki013/Bank-System)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-📊-brightgreen?style=flat-square)
+![Power BI](https://img.shields.io/badge/PowerBI-⚡-yellow?style=flat-square&logo=powerbi)
+![GitHub Repo stars](https://img.shields.io/github/stars/turki013/Project_Data?style=social)
+![GitHub forks](https://img.shields.io/github/forks/turki013/Project_Data?style=social)
+![GitHub issues](https://img.shields.io/github/issues/turki013/Project_Data)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/turki013/Project_Data)
+![GitHub last commit](https://img.shields.io/github/last-commit/turki013/Project_Data)
+![GitHub repo size](https://img.shields.io/github/repo-size/turki013/Project_Data)
+![License](https://img.shields.io/github/license/turki013/Project_Data)
 ## 📋 نظرة عامة
 يركز هذا المشروع على تحليل بيانات طلاب المدارس السعودية في الخارج لعام 2025، بهدف استخراج رؤى قيمة حول توزيع الطلاب السعوديين وغير السعوديين عبر المراحل التعليمية المختلفة في ثمانية بلدان. يساعد التحليل في اتخاذ قرارات استراتيجية لتطوير المنظومة التعليمية الخارجية.
 
@@ -34,17 +36,15 @@
 ## 📂 هيكل المشروع
 ```
 📦 تحليل-المدارس-السعودية-الخارجية
-├── 📁 data                 # البيانات الخام والمعالجة
+📦 Saudi-Schools-Abroad-Analysis
+├── 📁 data                 # البيانات الخام
 │   └── 📄 Number of Students in Saudi Schools Abroad2025.csv
-├── 📁 notebooks            # دفاتر جوبيتر للتحليل
-│   └── 📄 data_analysis.ipynb
-├── 📁 reports              # التقارير والمخرجات
-│   ├── 📄 executive_summary.pdf
-│   └── 📄 detailed_analysis.pdf
-├── 📁 visualizations       # لوحات Power BI وصور للرسوم البيانية
+├── 📁 visualizations       # ملف الباورباي
 │   └── 📄 dashboard.pbix
-├── 📄 requirements.txt     # مكتبات ومتطلبات المشروع
-└── 📄 README.md            # توثيق المشروع
+├── 📁 Docs
+     └── 📁 Translate
+          └── 📄 README.ar.md  # الملف المترجم
+└── 📄 README.md            # ملف المشروع
 ```
 
 ## 📊 الرسوم البيانية الرئيسية
@@ -63,26 +63,13 @@
 
 ## 🚀 التثبيت والاستخدام
 1. استنساخ المستودع:
-   ```bash
-   git clone https://github.com/YourUsername/saudi-schools-analysis.git
-   cd saudi-schools-analysis
+   ```
+    git clone https://github.com/turki013/Project_Data.git
+   cd Project_Data
    ```
 
-2. إنشاء بيئة افتراضية (اختياري ولكن موصى به):
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # في ويندوز استخدم: venv\Scripts\activate
-   ```
 
-3. تثبيت المتطلبات:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. فتح دفتر Jupyter وتشغيل التحليل:
-   ```bash
-   jupyter notebook notebooks/data_analysis.ipynb
-   ```
+   
 
 5. استكشاف لوحات Power BI:
    - افتح ملف `visualizations/dashboard.pbix` باستخدام Power BI Desktop

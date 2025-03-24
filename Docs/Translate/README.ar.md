@@ -1,16 +1,16 @@
 # 🏫 تحليل بيانات المدارس السعودية في الخارج 2025
 
+
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-📊-brightgreen?style=flat-square)
 ![Power BI](https://img.shields.io/badge/PowerBI-⚡-yellow?style=flat-square&logo=powerbi)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-📊-brightgreen?style=flat-square)
-![Power BI](https://img.shields.io/badge/PowerBI-⚡-yellow?style=flat-square&logo=powerbi)
-![GitHub Repo stars](https://img.shields.io/github/stars/turki013/Project_Data?style=social)
-![GitHub forks](https://img.shields.io/github/forks/turki013/Project_Data?style=social)
-![GitHub issues](https://img.shields.io/github/issues/turki013/Project_Data)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/turki013/Project_Data)
-![GitHub last commit](https://img.shields.io/github/last-commit/turki013/Project_Data)
-![GitHub repo size](https://img.shields.io/github/repo-size/turki013/Project_Data)
-![License](https://img.shields.io/github/license/turki013/Project_Data)
+![GitHub Repo stars](https://img.shields.io/github/stars/turki013/Saudi-Schools-DataAnalysis-2025?style=social)
+![GitHub forks](https://img.shields.io/github/forks/turki013/Saudi-Schools-DataAnalysis-2025?style=social)
+![GitHub issues](https://img.shields.io/github/issues/turki013/Saudi-Schools-DataAnalysis-2025)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/turki013/Saudi-Schools-DataAnalysis-2025)
+![GitHub last commit](https://img.shields.io/github/last-commit/turki013/Saudi-Schools-DataAnalysis-2025)
+![GitHub repo size](https://img.shields.io/github/repo-size/turki013/Saudi-Schools-DataAnalysis-2025)
+![License](https://img.shields.io/github/license/turki013/Saudi-Schools-DataAnalysis-2025)
+
 ## 📋 نظرة عامة
 يركز هذا المشروع على تحليل بيانات طلاب المدارس السعودية في الخارج لعام 2025، بهدف استخراج رؤى قيمة حول توزيع الطلاب السعوديين وغير السعوديين عبر المراحل التعليمية المختلفة في ثمانية بلدان. يساعد التحليل في اتخاذ قرارات استراتيجية لتطوير المنظومة التعليمية الخارجية.
 
@@ -28,11 +28,8 @@
 
 ## 🛠️ التقنيات المستخدمة
 - **Power BI**: لإنشاء لوحات تحليلية تفاعلية
-- **Python**: لمعالجة البيانات وتحليلها
-  - Pandas: لمعالجة وتنظيف البيانات
-  - Matplotlib & Seaborn: لإنشاء الرسوم البيانية
-  - NumPy: للعمليات الحسابية المتقدمة
-
+- اكسل
+  
 ## 📂 هيكل المشروع
 ```
 📦 تحليل-المدارس-السعودية-الخارجية
@@ -135,10 +132,10 @@
 
 ## 🚀 التثبيت والاستخدام
 1. استنساخ المستودع:
-   ```
-    git clone https://github.com/turki013/Project_Data.git
-   cd Project_Data
-   ```
+```
+    git clone https://github.com/turki013/Saudi-Schools-DataAnalysis-2025.git
+  cd Saudi-Schools-DataAnalysis-2025
+```
 
 
    

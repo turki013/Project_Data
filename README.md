@@ -2,13 +2,13 @@
 
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-📊-brightgreen?style=flat-square)
 ![Power BI](https://img.shields.io/badge/PowerBI-⚡-yellow?style=flat-square&logo=powerbi)
-![GitHub Repo stars](https://img.shields.io/github/stars/turki013/Project_Data?style=social)
-![GitHub forks](https://img.shields.io/github/forks/turki013/Project_Data?style=social)
-![GitHub issues](https://img.shields.io/github/issues/turki013/Project_Data)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/turki013/Project_Data)
-![GitHub last commit](https://img.shields.io/github/last-commit/turki013/Project_Data)
-![GitHub repo size](https://img.shields.io/github/repo-size/turki013/Project_Data)
-![License](https://img.shields.io/github/license/turki013/Project_Data)
+![GitHub Repo stars](https://img.shields.io/github/stars/turki013/Saudi-Schools-DataAnalysis-2025?style=social)
+![GitHub forks](https://img.shields.io/github/forks/turki013/Saudi-Schools-DataAnalysis-2025?style=social)
+![GitHub issues](https://img.shields.io/github/issues/turki013/Saudi-Schools-DataAnalysis-2025)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/turki013/Saudi-Schools-DataAnalysis-2025)
+![GitHub last commit](https://img.shields.io/github/last-commit/turki013/Saudi-Schools-DataAnalysis-2025)
+![GitHub repo size](https://img.shields.io/github/repo-size/turki013/Saudi-Schools-DataAnalysis-2025)
+![License](https://img.shields.io/github/license/turki013/Saudi-Schools-DataAnalysis-2025)
 
 
 # **Translate**
@@ -34,10 +34,7 @@ The data includes statistics on:
 
 ## 🛠️ Technologies Used
 - **Power BI**: For creating interactive analytical dashboards
-- **Python**: For data processing and analysis
-  - Pandas: For data processing and cleaning
-  - Matplotlib & Seaborn: For creating visualizations
-  - NumPy: For advanced computational operations
+- **Excel**
 
 ## 📂 Project Structure
 ```
@@ -128,8 +125,8 @@ May differ slightly in display or formatting.
 ## 🚀 Installation and Usage
 1. Clone the repository:
    ```bash
-    git clone https://github.com/turki013/Project_Data.git
-    cd Project_Data
+    git clone https://github.com/turki013/Saudi-Schools-DataAnalysis-2025.git
+cd Saudi-Schools-DataAnalysis-2025
    ```
 2. Explore Power BI dashboards:
    - Open the file `visualizations/dashboard.pbix` using Power BI Desktop

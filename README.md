@@ -128,6 +128,7 @@ May differ slightly in display or formatting.
     git clone https://github.com/turki013/Saudi-Schools-DataAnalysis-2025.git
 cd Saudi-Schools-DataAnalysis-2025
    ```
+
 2. Explore Power BI dashboards:
    - Open the file `visualizations/dashboard.pbix` using Power BI Desktop
 

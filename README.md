@@ -2,8 +2,8 @@
 
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-📊-brightgreen?style=flat-square)
 ![Power BI](https://img.shields.io/badge/PowerBI-⚡-yellow?style=flat-square&logo=powerbi)
-![GitHub Repo stars](https://img.shields.io/github/stars/turki013/Saudi-Schools-DataAnalysis-2025?style=social)
-![GitHub forks](https://img.shields.io/github/forks/turki013/Saudi-Schools-DataAnalysis-2025?style=social)
+![GitHub stars](https://img.shields.io/github/stars/turki013/Saudi-Schools-DataAnalysis-2025?style=flat&label=stars)
+![GitHub forks](https://img.shields.io/github/forks/turki013/Saudi-Schools-DataAnalysis-2025?style=flat&label=forks)
 ![GitHub issues](https://img.shields.io/github/issues/turki013/Saudi-Schools-DataAnalysis-2025)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/turki013/Saudi-Schools-DataAnalysis-2025)
 ![GitHub last commit](https://img.shields.io/github/last-commit/turki013/Saudi-Schools-DataAnalysis-2025)

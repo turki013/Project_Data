@@ -18,7 +18,7 @@
 
 
 ## 📋 Overview
-This project focuses on analyzing student data from Saudi schools abroad for the year 2025, with the aim of extracting valuable insights about the distribution of Saudi and non-Saudi students across different educational stages in eight countries. The analysis helps in making strategic decisions to develop the external educational system.
+This project focuses on analyzing data from Saudi schools to extract insights.The dataset is explored and visualized using Microsoft Power BI. about the distribution of Saudi and non-Saudi students across different educational stages in eight countries. The analysis helps in making strategic decisions to develop the external educational system.
 
 ## 📊 Data Used
 The data includes statistics on:
